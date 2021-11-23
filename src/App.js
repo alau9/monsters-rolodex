@@ -34,7 +34,7 @@ componentDidMount() {
     // const searchField = this.state.searchField
     return (
       <div className="App">
-        <h1>Monster Rolodex</h1>
+        <h1>My Monsters Rolodex</h1>
         <SearchBox
           placeholder='search monsters'
           handleChange={this.handleChange}
